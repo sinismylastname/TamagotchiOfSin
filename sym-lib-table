@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "${KIPRJMOD}/Library/OPL_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym") (options "") (descr ""))
 	(lib (name "DFR0299") (type "KiCad") (uri "C:/Users/SuperDuperAnimeFan/Downloads/DFR0299/DFR0299.kicad_sym") (options "") (descr ""))
+	(lib (name "AOM12864A0-1.54WW-ANO") (type "KiCad") (uri "${KIPRJMOD}/Library/AOM12864A0-1.54WW-ANO/AOM12864A0-1.54WW-ANO.kicad_sym") (options "") (descr ""))
 )
