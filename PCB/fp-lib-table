@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DFR0299") (type "KiCad") (uri "C:/Users/SuperDuperAnimeFan/Downloads/DFR0299") (options "") (descr ""))
+	(lib (name "Seeed Studio XIAO ESP32S3") (type "KiCad") (uri "${KIPRJMOD}/Library/OPL_Library/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "New_XIAO_Series_Footprints") (type "KiCad") (uri "${KIPRJMOD}/Library/New_XIAO_Series_Footprints") (options "") (descr ""))
+)
